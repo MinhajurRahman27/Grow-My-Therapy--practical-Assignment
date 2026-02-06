@@ -9,7 +9,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="flex items-center justify-between px-10 text-primary py-6 md:py-5 relative z-50 ">
+      <div className="flex items-center justify-between px-[2.5vw] text-primary py-6 md:py-5 relative z-50 ">
         {/* Left */}
         <div className="flex items-center h-8 ">
           <button
