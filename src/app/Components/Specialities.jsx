@@ -26,7 +26,7 @@ const Specialities = () => {
     <div className='py-[10vh] md:py-[28vh] px-4.5'>
       <h1 className='text-primary font-semibold text-center text-[28px] md:text-[3.5vw] mb-[50px] mx-[15px] '>My Specialities</h1>
      <div className='flex justify-center'>
-       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4'>
+       <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-3'>
         {
           datas.map(data => <Card key={data.title} data={data}></Card>)
         }
