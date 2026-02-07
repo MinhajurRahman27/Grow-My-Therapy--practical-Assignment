@@ -4,6 +4,7 @@ import HeroSection from "./Components/HeroSection";
 import SecondSection from "./Components/SecondSection";
 import Specialities from "./Components/Specialities";
 import SuggestionSection from "./Components/SuggestionSection";
+import Footer from "./Components/Footer";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <SecondSection></SecondSection>
         <Specialities></Specialities>
         <SuggestionSection></SuggestionSection>
+        <Footer></Footer>
       </header>
     </div>
   );
