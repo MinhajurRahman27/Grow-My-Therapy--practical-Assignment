@@ -5,6 +5,7 @@ import SecondSection from "./Components/SecondSection";
 import Specialities from "./Components/Specialities";
 import SuggestionSection from "./Components/SuggestionSection";
 import Footer from "./Components/Footer";
+import IntroductionSection from "./Components/IntroductionSection";
 
 export default function Home() {
   return (
@@ -15,7 +16,8 @@ export default function Home() {
         <SecondSection></SecondSection>
         <Specialities></Specialities>
         <SuggestionSection></SuggestionSection>
-        <Footer></Footer>
+        <IntroductionSection></IntroductionSection>
+        {/* <Footer></Footer> */}
       </header>
     </div>
   );
