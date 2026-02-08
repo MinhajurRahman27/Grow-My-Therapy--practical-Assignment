@@ -8,6 +8,7 @@ import Footer from "./Components/Footer";
 import IntroductionSection from "./Components/IntroductionSection";
 import FAQ from "./Components/FAQ";
 import ProfessionalBackground from "./Components/ProfessionalBackground";
+import GetStartedTodaySection from "./Components/GetStartedTodaySection";
 
 export default function Home() {
   return (
@@ -21,6 +22,7 @@ export default function Home() {
         <IntroductionSection></IntroductionSection>
         <FAQ></FAQ>
         <ProfessionalBackground></ProfessionalBackground>
+        <GetStartedTodaySection></GetStartedTodaySection>
         {/* <Footer></Footer> */}
       </header>
     </div>
