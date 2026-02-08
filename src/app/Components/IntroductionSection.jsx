@@ -9,17 +9,14 @@ const IntroductionSection = () => {
         <div className="flex-1 flex flex-col justify-center items-center">
           <div className="py-8 md:py-0 md:pb-0 w-full sm:w-[90%] md:w-[85%] md:px-6 lg:px-10 mb-6 md:mb-9">
             <h1 className="text-primary text-[28px] sm:text-[32px] md:text-[3.6vw] lg:text-[3.6vw] font-semibold mb-4 sm:mb-6 md:mb-8">
-              Hi, I'm Lilac.
+              Hi, I'm Dr. Maya Reynolds
             </h1>
             <p className="text-[15px] sm:text-[16px] md:text-[16.2784px] lg:text-[19.2784px] font-normal text-primary leading-relaxed">
-              I{"'"}m committed to providing a safe and supportive environment
-              where we can explore your thoughts, feelings, and behaviors. With
-              empathy and guidance, we{"'"}ll work together to navigate the
-              challenges life throws your way.
+              I{"'"}m a licensed clinical psychologist based in Santa Monica, California, offering therapy for adults who feel overwhelmed by anxiety, stress, or the lingering effects of past experiences. I take a warm, collaborative, and grounded approach to therapy—combining practical tools with depth-oriented work for clients living and working in a fast-paced environment.
             </p>
           </div>
           <button className="md:mt-7 border-primary text-primary border px-6 sm:px-7 md:px-[28.72px] py-3 sm:py-3.5 md:py-[14.32px] flex items-center justify-center gap-2 hover:bg-primary hover:text-white cursor-pointer transition ease-linear duration-300 text-sm sm:text-base">
-            LET{"'"}S CHAT{" "}
+            SCHEDULE A CONSULTATION{" "}
             <IoIosArrowRoundForward className="text-xl sm:text-2xl" />
           </button>
         </div>

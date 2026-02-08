@@ -6,15 +6,15 @@ const Info = () => {
     <div className='flex flex-col md:flex-row min-h-[300px] md:h-[370px] items-start justify-between py-8 sm:py-10 md:py-15 px-4 sm:px-6 md:px-10  lg:px-15 text-primary gap-8 md:gap-6'>
       <div className='w-full md:w-[60%]'>
         <h1 className='text-[28px] sm:text-[32px] md:text-[36px] lg:text-[40px] font-semibold mb-4 sm:mb-6 md:mb-8'>
-          Lilac Template
+          Dr. Maya Reynolds, PsyD
         </h1>
         <div className='text-[15px] sm:text-[16px] md:text-[17px] lg:text-[18px] mb-4 sm:mb-6 md:mb-8'> 
-          <p>123 Example Road</p>
-          <p>Minneapolis, MN</p>
+          <p>123th Street 45 W</p>
+          <p>Santa Monica, CA 90401</p>
         </div>
         <div className='text-[15px] sm:text-[16px] md:text-[17px] lg:text-[18px]'>
-          <p>email@gmail.com</p>
-          <p>555 555-5555</p>
+          <p>contact@drmayareynolds.com</p>
+          <p>(310) 555-0123</p>
         </div>
       </div>
       <div className='flex flex-col sm:flex-row items-start justify-between w-full md:flex-1 gap-8 sm:gap-12 md:gap-6'>

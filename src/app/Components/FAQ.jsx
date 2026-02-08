@@ -9,16 +9,20 @@ const FAQ = () => {
 
   const faqs = [
     {
-      question: "Do You Take Insurance?",
-      answer: "Answer goes here."
+      question: "Do You Accept Insurance?",
+      answer: "Please contact me directly to discuss insurance options and verify if your specific plan is accepted for therapy services in California."
     },
     {
-      question: "What are your rates?",
-      answer: "Answer goes here"
+      question: "Do You Offer Telehealth Sessions?",
+      answer: "Yes, I offer both in-person therapy from my Santa Monica office and secure telehealth sessions for clients located anywhere in California."
     },
     {
-      question: "Do you have any openings?",
-      answer: "Answer goes here"
+      question: "What Is Your Approach to Trauma Therapy?",
+      answer: "My approach to trauma work is paced carefully, with an emphasis on safety, stabilization, and helping clients feel more regulated in their daily lives. I work with adults who have experienced single-incident trauma as well as more complex, long-standing patterns using EMDR and other evidence-based methods."
+    },
+    {
+      question: "Who Do You Typically Work With?",
+      answer: "I frequently work with high-achieving adults, entrepreneurs, creatives, and professionals dealing with anxiety, panic, trauma, burnout, and perfectionism. Many clients feel 'functional' on the outside while quietly struggling with constant worry, tension, or exhaustion."
     }
   ];
 

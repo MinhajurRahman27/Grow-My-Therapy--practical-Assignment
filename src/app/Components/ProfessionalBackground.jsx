@@ -9,15 +9,15 @@ const ProfessionalBackground = () => {
     const faqs = [
       {
         question: "Education",
-        answer: "Euphorbia dianthus alchemilla muscari lavandula anthurium artemesia false artemesia moluccella gladiolus cirsium trollius anthurium prunus delphinium achillea."
+        answer: "Doctor of Psychology (PsyD) in Clinical Psychology from an APA-accredited program, with specialized training in trauma-focused therapies and cognitive-behavioral interventions."
       },
       {
         question: "Licensure",
-        answer: "Euphorbia dianthus alchemilla muscari lavandula anthurium artemesia false artemesia moluccella gladiolus cirsium trollius anthurium prunus delphinium achillea."
+        answer: "Licensed Clinical Psychologist in the state of California. Licensed to provide both in-person and telehealth therapy services to adults throughout California."
       },
       {
         question: "Certifications",
-        answer: "Euphorbia dianthus alchemilla muscari lavandula anthurium artemesia false artemesia moluccella gladiolus cirsium trollius anthurium prunus delphinium achillea."
+        answer: "Certified in EMDR (Eye Movement Desensitization and Reprocessing) therapy. Advanced training in cognitive-behavioral therapy (CBT), mindfulness-based interventions, and body-oriented therapeutic techniques."
       }
     ];
   

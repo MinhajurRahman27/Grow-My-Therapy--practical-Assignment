@@ -15,7 +15,7 @@ const Footer = () => {
         <p className='text-primary'>Website Template Credits:</p>
         <Link href={'/'}  className='underline underline-offset-4'>Go Bloom Creative</Link>
       </div>
-      <p className='text-primary mt-15 font-normal'>All Rights Reserved © 2024 Your Business Name Here,LLC.</p>
+      <p className='text-primary mt-15 font-normal'>All Rights Reserved © 2024 Dr. Maya Reynolds, PsyD</p>
     </div>
   );
 };

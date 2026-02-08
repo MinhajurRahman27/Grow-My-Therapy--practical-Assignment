@@ -4,20 +4,20 @@ import Card from './Card/Card';
 const Specialities = () => {
   const datas = [
     {
-      title:"Self-Esteem",
-      text:"Building a strong sense of self-worth is key to living a fulfilled life. Let's work together to bolster your self-esteem.",
+      title:"Anxiety & Panic",
+      text:"I work with adults experiencing constant worry, panic attacks, and the exhausting feeling of always being on edge. We'll address both the emotional and physiological sides of anxiety.",
       image:"/booyphoto.webp",
       alt:"standing boy picture"
     },
     {
-      title:"Relationships",
-      text:"Navigating relationships can be complex. I'm here to guide you through these complexities to help you form healthier connections.",
+      title:"Trauma & EMDR",
+      text:"I work with adults who have experienced single-incident trauma as well as more complex, long-standing patterns. My approach is paced carefully, with an emphasis on safety, stabilization, and helping clients feel more regulated.",
       image:"/booyphoto.webp",
       alt:"standing boy picture"
     },
     {
-      title:"Burnout",
-      text:"Feeling overwhelmed by your career is more common than you think. Together, we'll identify strategies to manage and prevent burnout.",
+      title:"Burnout & Perfectionism",
+      text:"I frequently support entrepreneurs, creatives, and professionals who feel disconnected from themselves after years of pushing through stress. Therapy can become a space to slow down, reconnect, and develop more sustainable ways of living and working.",
       image:"/booyphoto.webp",
       alt:"standing boy picture"
     },

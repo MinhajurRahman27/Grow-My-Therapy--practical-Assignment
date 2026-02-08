@@ -29,14 +29,14 @@ const Navbar = () => {
           </button>
 
           <h1 className="font-semibold hidden md:block text-[32px] ml-4">
-            <Link href="/">Lilac Template</Link>
+            <Link href="/">Dr. Maya Reynolds</Link>
           </h1>
         </div>
 
         {/* Right */}
         <div className="flex items-center h-8">
           <h3 className="md:hidden text-[20px] leading-none">
-            <Link href="/">Lilac Template</Link>
+            <Link href="/">Dr. Maya Reynolds</Link>
           </h3>
 
           <div className="hidden md:flex text-[20px]">
