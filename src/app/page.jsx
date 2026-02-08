@@ -6,6 +6,7 @@ import Specialities from "./Components/Specialities";
 import SuggestionSection from "./Components/SuggestionSection";
 import Footer from "./Components/Footer";
 import IntroductionSection from "./Components/IntroductionSection";
+import FAQ from "./Components/FAQ";
 
 export default function Home() {
   return (
@@ -17,6 +18,7 @@ export default function Home() {
         <Specialities></Specialities>
         <SuggestionSection></SuggestionSection>
         <IntroductionSection></IntroductionSection>
+        <FAQ></FAQ>
         {/* <Footer></Footer> */}
       </header>
     </div>
