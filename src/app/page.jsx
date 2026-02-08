@@ -9,6 +9,7 @@ import IntroductionSection from "./Components/IntroductionSection";
 import FAQ from "./Components/FAQ";
 import ProfessionalBackground from "./Components/ProfessionalBackground";
 import GetStartedTodaySection from "./Components/GetStartedTodaySection";
+import Info from "./Components/Info";
 
 export default function Home() {
   return (
@@ -23,7 +24,8 @@ export default function Home() {
         <FAQ></FAQ>
         <ProfessionalBackground></ProfessionalBackground>
         <GetStartedTodaySection></GetStartedTodaySection>
-        {/* <Footer></Footer> */}
+        <Info></Info>
+        <Footer></Footer>
       </header>
     </div>
   );
