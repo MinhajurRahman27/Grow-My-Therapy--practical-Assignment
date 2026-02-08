@@ -7,6 +7,7 @@ import SuggestionSection from "./Components/SuggestionSection";
 import Footer from "./Components/Footer";
 import IntroductionSection from "./Components/IntroductionSection";
 import FAQ from "./Components/FAQ";
+import ProfessionalBackground from "./Components/ProfessionalBackground";
 
 export default function Home() {
   return (
@@ -19,6 +20,7 @@ export default function Home() {
         <SuggestionSection></SuggestionSection>
         <IntroductionSection></IntroductionSection>
         <FAQ></FAQ>
+        <ProfessionalBackground></ProfessionalBackground>
         {/* <Footer></Footer> */}
       </header>
     </div>

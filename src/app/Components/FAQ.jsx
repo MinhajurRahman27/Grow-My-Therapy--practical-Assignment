@@ -42,7 +42,7 @@ const FAQ = () => {
         
         <div className="w-full md:w-1/2 px-4 sm:px-0 ">
           <div className="text-primary">
-            <h1 className="font-medium text-[28px] sm:text-[32px] md:text-[34px] lg:text-[44px] mb-4  md:text-left">
+            <h1 className="font-semibold text-[28px] sm:text-[32px] md:text-[34px] lg:text-[44px] mb-4  md:text-left">
               FAQs
             </h1>
             <hr className="mb-6 md:mb-8" />
