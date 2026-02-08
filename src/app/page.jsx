@@ -10,6 +10,7 @@ import FAQ from "./Components/FAQ";
 import ProfessionalBackground from "./Components/ProfessionalBackground";
 import GetStartedTodaySection from "./Components/GetStartedTodaySection";
 import Info from "./Components/Info";
+import OurOffice from "./Components/OurOffice";
 
 export default function Home() {
   return (
@@ -23,6 +24,7 @@ export default function Home() {
         <IntroductionSection></IntroductionSection>
         <FAQ></FAQ>
         <ProfessionalBackground></ProfessionalBackground>
+        <OurOffice></OurOffice>
         <GetStartedTodaySection></GetStartedTodaySection>
         <Info></Info>
         <Footer></Footer>
