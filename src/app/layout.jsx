@@ -2,7 +2,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 
 const myFont = localFont({
-  src: "../../public/gopher.otf",
+  src: "../../public/Inter-VariableFont_opsz,wght.ttf",
 });
 
 export const metadata = {
