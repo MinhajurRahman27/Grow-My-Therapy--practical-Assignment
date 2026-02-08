@@ -4,7 +4,7 @@ import { IoIosArrowRoundForward } from "react-icons/io";
 
 const IntroductionSection = () => {
   return (
-    <div className="flex flex-col-reverse md:flex-row items-center min-h-screen md:min-h-[100vh] lg:h-[130vh] bg-secondary py-10 sm:py-12 md:py-[10vh] overflow-hidden">
+    <div className="flex flex-col-reverse md:flex-row items-center min-h-screen md:h-[140vh] lg:h-[130vh] bg-secondary py-40 sm:py-12 md:py-[10vh] overflow-hidden">
       <div className="w-full md:w-[55vw] lg:w-[55vw] flex flex-col justify-center md:justify-between lg:mt-10 px-4 sm:px-6 md:px-0">
         <div className="flex-1 flex flex-col justify-center items-center">
           <div className="py-8 md:py-0 md:pb-0 w-full sm:w-[90%] md:w-[85%] md:px-6 lg:px-10 mb-6 md:mb-9">
@@ -19,7 +19,8 @@ const IntroductionSection = () => {
             </p>
           </div>
           <button className="md:mt-7 border-primary text-primary border px-6 sm:px-7 md:px-[28.72px] py-3 sm:py-3.5 md:py-[14.32px] flex items-center justify-center gap-2 hover:bg-primary hover:text-white cursor-pointer transition ease-linear duration-300 text-sm sm:text-base">
-            LET{"'"}S CHAT <IoIosArrowRoundForward className="text-xl sm:text-2xl" />
+            LET{"'"}S CHAT{" "}
+            <IoIosArrowRoundForward className="text-xl sm:text-2xl" />
           </button>
         </div>
       </div>
@@ -32,7 +33,7 @@ const IntroductionSection = () => {
           sizes="(max-width: 640px) 200px, (max-width: 768px) 250px, (max-width: 1024px) 300px, 350px"
           className="rounded-t-[1000px] w-[200px] sm:w-[220px] md:w-[280px] md:h-[400px] lg:w-[350px] lg:h-[90vh] object-cover"
         />
-        <div className="w-[100px] h-[100px] sm:w-[120px] sm:h-[120px] md:w-[25vw] md:h-[25vw] lg:w-[19vw] lg:h-[19vw] rounded-full overflow-hidden absolute bottom-0 md:-bottom-13 lg:-bottom-15 left-[120px] sm:left-[140px] md:left-40 lg:left-55">
+        <div className="w-[100px] h-[100px] sm:w-[120px] sm:h-[120px] md:w-[20vw] md:h-[20vw] lg:w-[19vw] lg:h-[19vw] rounded-full overflow-hidden absolute bottom-0 md:-bottom-13 lg:-bottom-15 left-[270px] sm:left-[400px] md:left-40 lg:left-55">
           <Image
             src={"/flowerphoto.webp"}
             alt={"flowerphoto"}
