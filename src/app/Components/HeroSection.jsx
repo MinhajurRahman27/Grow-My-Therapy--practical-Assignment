@@ -3,7 +3,7 @@ import React from "react";
 import { IoIosArrowRoundForward } from "react-icons/io";
 const HeroSection = () => {
   return (
-    <div className="px-15 md:px-6 lg:px-15 pt-14 flex flex-col md:flex-row items-center lg:items-start gap-20 md:gap-10 lg:gap-20 justify-between ">
+    <div className="px-15 md:px-6 lg:px-15 pt-14 flex flex-col md:flex-row items-center md:items-center gap-20 md:gap-10 lg:gap-20 justify-between ">
 
       <div className="">
 

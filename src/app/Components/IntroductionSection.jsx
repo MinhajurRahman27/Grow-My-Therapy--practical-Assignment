@@ -12,7 +12,12 @@ const IntroductionSection = () => {
               Hi, I'm Dr. Maya Reynolds
             </h1>
             <p className="text-[15px] sm:text-[16px] md:text-[16.2784px] lg:text-[19.2784px] font-normal text-primary leading-relaxed">
-              I{"'"}m a licensed clinical psychologist based in Santa Monica, California, offering therapy for adults who feel overwhelmed by anxiety, stress, or the lingering effects of past experiences. I take a warm, collaborative, and grounded approach to therapy—combining practical tools with depth-oriented work for clients living and working in a fast-paced environment.
+              I{"'"}m a licensed clinical psychologist based in Santa Monica,
+              California, offering therapy for adults who feel overwhelmed by
+              anxiety, stress, or the lingering effects of past experiences. I
+              take a warm, collaborative, and grounded approach to
+              therapy—combining practical tools with depth-oriented work for
+              clients living and working in a fast-paced environment.
             </p>
           </div>
           <button className="md:mt-7 border-primary text-primary border px-6 sm:px-7 md:px-[28.72px] py-3 sm:py-3.5 md:py-[14.32px] flex items-center justify-center gap-2 hover:bg-primary hover:text-white cursor-pointer transition ease-linear duration-300 text-sm sm:text-base">
@@ -23,7 +28,7 @@ const IntroductionSection = () => {
       </div>
       <div className="w-full md:w-[45vw] flex items-center justify-center md:justify-start relative md:pt-[4vh] mb-8 md:mb-0">
         <Image
-          src={"/girlphoto2.webp"}
+          src={"/jei-lee-yRXuXvy4sQ4-unsplash.jpg"}
           width={513}
           height={771}
           alt="Girl holding flower image"
@@ -32,7 +37,7 @@ const IntroductionSection = () => {
         />
         <div className="w-[100px] h-[100px] sm:w-[120px] sm:h-[120px] md:w-[20vw] md:h-[20vw] lg:w-[19vw] lg:h-[19vw] rounded-full overflow-hidden absolute bottom-0 md:-bottom-13 lg:-bottom-15 left-[270px] sm:left-[400px] md:left-40 lg:left-55">
           <Image
-            src={"/flowerphoto.webp"}
+            src={"/annie-spratt-vs6a4EHj_Ro-unsplash.jpg"}
             alt={"flowerphoto"}
             fill
             quality={100}

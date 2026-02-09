@@ -4,9 +4,18 @@
 @plugin "daisyui/theme" {
   name: "light";
   default: true;
---color-primary: #23022E;   /* change based on palette */
-  --color-secondary: #C3E8BD;
-  --color-accent: #B796AC;
-  --color-neutral: #B796AC;
+  --color-primary: #0D5C63;
+  /* Deep Teal - Professional, calming, trustworthy */
+  --color-secondary: #E8F3E8;
+  /* Soft Sage - Peaceful, healing, natural */
+  --color-accent: #C97C5D;
+  /* Warm Terracotta - Warm, approachable, grounding */
+  --color-neutral: #2C3E50;
+  /* Charcoal - Professional, readable */
 }
 
+@layer base {
+  body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', sans-serif;
+  }
+}

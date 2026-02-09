@@ -35,7 +35,7 @@ const Navbar = () => {
 
         {/* Right */}
         <div className="flex items-center h-8">
-          <h3 className="md:hidden text-[20px] leading-none">
+          <h3 className="md:hidden font-semibold text-[20px] leading-none">
             <Link href="/">Dr. Maya Reynolds</Link>
           </h3>
 

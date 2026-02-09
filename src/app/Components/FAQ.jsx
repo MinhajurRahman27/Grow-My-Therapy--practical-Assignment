@@ -35,7 +35,7 @@ const FAQ = () => {
       <div className="px-4 sm:px-6 md:px-8 lg:px-15 pt-8 md:pt-14 pb-8 md:pb-12 flex flex-col md:flex-row items-center  md:items-center gap-8 md:gap-12 lg:gap-20 justify-center max-w-[1400px] mx-auto">
         <div className="w-full md:w-1/2 flex justify-center">
           <Image
-            src={"/faqphoto.webp"}
+            src={"/paul-green-5lRxNLHfZOY-unsplash.jpg"}
             width={513}
             height={771}
             alt="Girl holding flower image"
